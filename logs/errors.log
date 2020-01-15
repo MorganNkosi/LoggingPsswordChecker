@@ -1,0 +1,3 @@
+2020-01-15 15:36:45,500 | PasswordChecker: password should be longer than 8 characters
+2020-01-15 15:39:12,123 | PasswordChecker: password should have at least one digit
+2020-01-15 15:39:12,125 | PasswordChecker: User password is not ok
