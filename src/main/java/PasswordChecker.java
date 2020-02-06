@@ -23,7 +23,7 @@ public class PasswordChecker {
         }
         else
         {
-            logger.error("password should have at least one special character");
+            System.out.println("password should have at least one special character");
             return false;
         }
     }
@@ -57,14 +57,14 @@ public class PasswordChecker {
                 }
                 else
                 {
-                    logger.error("password should be longer than 8 characters");
+                    System.out.println("password should be longer than 8 characters");
 
                     return false;
                 }
             }
             else
             {
-                logger.error("Password should exist");
+                System.out.println("Password should exist");
                 return false;
             }
     }

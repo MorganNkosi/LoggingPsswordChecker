@@ -1,0 +1,4 @@
+2020-02-06 15:02:59,539 | PasswordChecker: password should have at least one digit
+2020-02-06 15:02:59,541 | PasswordChecker: User password is not ok
+2020-02-06 15:04:39,859 | PasswordChecker: password should have at least one digit
+2020-02-06 15:04:39,862 | PasswordChecker: User password is not ok
